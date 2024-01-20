@@ -24,6 +24,7 @@ TBA
 - [Quotes API](https://api-ninjas.com/api/quotes)
   
 ## Installation
+Ensure that you have Node.js and npm installed
 
 1. Clone the repository:
 
