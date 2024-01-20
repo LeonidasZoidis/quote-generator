@@ -1,8 +1,31 @@
-# React + Vite
+# Random Quote Generator Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This web application is a simple quote generator that fetches random quotes from Quotes API. Users can select a specific category to get quotes tailored to their interests. It's a great way to find inspiration, motivation, or just some interesting thoughts!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Random Quotes:** Receive random quotes from various categories.
+- **Category Selection:** Choose a specific category for quotes that match your interests.
+- **User-Friendly Interface:** Clean and intuitive design for a seamless user experience.
+- **Responsive Design:** Works on desktops, tablets, and mobile devices.
+
+## Online Demo
+
+TBA
+
+## Technologies Used
+
+- JSX
+- CSS3
+- React
+- JavaScript (ES6+)
+- [Quotes API](https://api-ninjas.com/api/quotes)
+  
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/LeonidasZoidis/quote-generator.git
