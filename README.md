@@ -29,3 +29,5 @@ TBA
 
    ```bash
    git clone https://github.com/LeonidasZoidis/quote-generator.git
+2. npm install
+3. npm run dev
